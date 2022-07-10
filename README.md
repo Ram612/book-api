@@ -1,13 +1,14 @@
-# ![Laravel Example App](logo.png)
+# ![Book API - Backend Laravel App]
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 # Getting started Backend requirements
 
 Laravel, a PHP framework, powers the backend of the application. It uses Composer for dependency management. To set up the backend, ensure that you have:
 
-Php version 8.1
-Composer version 2.3.9
-Laravel Framework 9.19.0
-MySql version 8.0.29
+1. Php version 8.1
+2. Composer version 2.3.9
+3. Laravel Framework 9.19.0
+4. MySql version 8.0.29
 
 ## Installation
 
